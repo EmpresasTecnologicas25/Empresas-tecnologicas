@@ -1,2 +1,0 @@
-# Empresas-tecnologicas
-GitHub page
